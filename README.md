@@ -33,7 +33,7 @@ The application allows users to search by name and view user details in a modal 
 
 ```bash
 git clone https://github.com/SallmaAtef/UserListApp
-cd UserListApp
+
 ```
 
 2. Install dependencies:
